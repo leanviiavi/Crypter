@@ -7,3 +7,7 @@ Taytuleuov T.ZH.
 Kuzmichev A.A.
 
 The program was created to study the work of data protection!!!
+
+
+Updated on 05/19/2019.
+Added interaction elements. Enhanced encryption method. The use of multithreading.
