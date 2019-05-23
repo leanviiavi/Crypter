@@ -12,5 +12,5 @@ The program was created to study the work of data protection!!!
 Updated on 05/19/2019.
 Added interaction elements. Enhanced encryption method. The use of multithreading.
 
-Update on 05/23/2019.
+Updated on 05/23/2019.
 Added access level system and antuntification.
