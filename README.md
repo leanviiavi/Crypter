@@ -14,3 +14,6 @@ Added interaction elements. Enhanced encryption method. The use of multithreadin
 
 Updated on 05/23/2019.
 Added access level system and antuntification.
+
+Updated on 05/23/2019
+Added logs
